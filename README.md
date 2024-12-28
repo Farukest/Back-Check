@@ -1,22 +1,19 @@
-# back-check
+# BACK CHECK
+------------------
+
 WHAT DOES "BACK CHECK" DO ?
--When you open any website, it warns you if you have never visited the site before. Simple but effective.
+- When you open any website, it warns you if you have never visited the site before. Simple but effective.<br><br>
 
+------------------<br><b>RECIPE</b><br>------------------<br>
+1- Download it<br>
+2- Unzip it<br>
+3- Follow the screenshots<br>
+4- Follow me on twitter https://x.com/Farukins<br>
+5- Be Safe always<br>
+<br><br>
+------------------<br><b>SCREENSHOTS</b><br>------------------<br>
+![image](https://github.com/user-attachments/assets/f7df0f93-72df-4298-bc13-c0f444cd1edc)
 
-------------------
-Recipe
-------------------
-1- Download it
-2- Unzip it
-3- Follow the screenshots.
-4- Be Safe always
-------------------
-
-
-------------------
-Screenshots 
-------------------
-![image](https://github.com/user-attachments/assets/fa8b7919-02ba-4915-ae46-efc7054d4963)
 
 
 ![image](https://github.com/user-attachments/assets/1ba6960e-a9a4-4eca-979a-5aa86f464932)
