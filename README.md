@@ -4,6 +4,10 @@
 WHAT DOES "BACK CHECK" DO ?
 - When you open any website, it warns you if you have never visited the site before. Simple but effective.<br><br>
 
+<b>NOTE</b> <br>
+I did not share it on Chrome Extensions because wanted to be open source for safety<br>
+It is offline and %100 SAFE <br>
+<br>
 ------------------<br><b>RECIPE</b><br>------------------<br>
 1- Download it<br>
 2- Unzip it<br>
