@@ -1,2 +1,2 @@
 # back-check
-It checks was the ongoing website already visited before.. gives you warning if is
+When you open any website, it warns you if you have never visited the site before.
