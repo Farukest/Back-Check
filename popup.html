@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Yeni Site Uyarısı</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+        width: 250px;
+      }
+      #message {
+        font-size: 16px;
+        margin-bottom: 20px;
+      }
+      button {
+        margin: 5px;
+        padding: 10px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+      }
+      button.cancel {
+        background-color: #f44336;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="message">Bu siteye daha önce gitmediniz!</div>
+    <button id="stayBtn">Devam Et</button>
+    <button id="leaveBtn" class="cancel">Terk Et</button>
+
+    <script src="popup.js"></script>
+  </body>
+</html>

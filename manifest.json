@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Back Check",
+    "version": "1.0",
+    "description": "Yeni bir siteye gidildiğinde uyarı gösterir.",
+    "permissions": ["storage", "tabs", "scripting", "history"], 
+    "host_permissions": ["<all_urls>"],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ],
+    "icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+  }
+

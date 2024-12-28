@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Onay Ekranı</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        button {
+            padding: 10px 20px;
+            margin: 10px;
+            font-size: 16px;
+            cursor: pointer;
+        }
+        .continue {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+        }
+        .cancel {
+            background-color: #f44336;
+            color: white;
+            border: none;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bu siteye gitmek istediğinize emin misiniz?</h1>
+    <button class="continue" id="continueBtn">Devam Et</button>
+    <button class="cancel" id="cancelBtn">Terk Et</button>
+
+    <!-- confirmation.js dosyasını bağlayın -->
+    <script src="confirmation.js"></script>
+</body>
+</html>
